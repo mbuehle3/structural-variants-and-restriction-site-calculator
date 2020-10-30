@@ -1,0 +1,6 @@
+Variant Type 	 Count in File 	 Filtered Count
+Insertions 	 102 	 6
+Deletions 	 1010 	 320
+Inversions 	 512 	 164
+Translocations (ITX) 	 472 	 128
+Translocations (CTX) 	 18 	 2

@@ -1,0 +1,4 @@
+Restriction Enzyme 	 Cleavage Site 	 Number of Fragments 	 Average Fragment Length
+EcoR1 	 GAATTC 	  393 	 2776
+Acyl 	 GRCGYC 	  321 	 3399
+Ahdl 	 GACNNNNNGTC 	  97 	 11250

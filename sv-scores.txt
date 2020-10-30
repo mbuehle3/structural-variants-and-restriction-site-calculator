@@ -1,0 +1,6 @@
+Variant Type 	 Mean Score 	 Mean Size 	 Mean Number of Reads
+Insertions 	  63.549 270.196 4.09804
+Deletions 	  74.7713 1.00085e+06 11.9248
+Inversions 	  82.3809 6.56021e+06 12.5996
+Translocations (ITX) 	  82.7564 5.13083e+06 11.7161
+Translocations (CTX) 	  47.2778 910.833 14.5556
